@@ -11,6 +11,10 @@ This document contains an AI prompt to set up a brainstorming/ideation partner t
 
 This mode is designed to help you brainstorm ideas, and take them from vague concepts to detailed specifications (if you want). It sets up a guided conversation to explore ideas, and build a more complete picture of what the idea might be. It's equipped with a set of `--flag` commands which are basically shortcuts designed to direct the conversation in a certain direction (e.g. `--alternatives`, `--critique`, etc.), or to create outputs like a "save state" (`--save`) or detailed specification (`--done`).
 
+## About the format
+
+This prompt uses a format that I came up with called 💽 [Mixdown](http://github.com/galligan/mixdown), which is a mix of XML, YAML, and Markdown.
+
 ## How to use this mode
 
 ### With ChatGPT, Gemini, or other LLMs
